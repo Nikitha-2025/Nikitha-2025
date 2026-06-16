@@ -10,7 +10,7 @@ Building projects to strengthen my portfolio
 Learning modern development frameworks
 Contributing to open-source projects
 📫 Connect With Me
-LinkedIn:  linkedin.com/in/nikithapr    
+LinkedIn:  linkedin.com/in/nikithapr  
 Email: nikithapr79@gmail.com
 ⚡ Fun Fact
 
